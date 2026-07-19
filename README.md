@@ -54,6 +54,9 @@ I'm an **AI & Software Engineer** based in Berlin, specializing in **Generative 
 
 ### 🚀 Featured Projects
 
+**📄 [Lease Intelligence Demo](https://github.com/hamdimoh/lease-intelligence-demo)** — *AI document-processing patterns*
+Self-contained demo (fictional data) of OCR triage, structured LLM extraction via prompt engineering, an analytics dashboard, and filter-based "chat with your data" — patterns from my day-to-day work building document-heavy AI pipelines. FastAPI + React/TypeScript, runs with zero API key via a built-in fake LLM client.
+
 **🤖 [RAG Chatbot for HTW Students](https://github.com/hamdimoh/Sirius-HTWChatbot)** — *Bachelor thesis, grade 1.7*
 LLM-based chatbot (GPT-4o) using Retrieval-Augmented Generation to answer student queries, with a retrieval pipeline across PDF, web, and SQL sources and a Streamlit interface.
 
